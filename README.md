@@ -64,5 +64,6 @@ dotnet run
 
 #### By default, the API will be accessible at:
 
-> HTTP:  ```link http://localhost:5000 ```
-> HTTPS: ```link https://localhost:5001```
+> HTTP:  ```http://localhost:5000 ```
+
+> HTTPS: ```https://localhost:5001```
