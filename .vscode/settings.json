@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mssqlOptions": {
+                "appName": "SQLTools",
+                "useUTC": true,
+                "encrypt": true
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "MSSQL",
+            "connectString": "Data Source=.;Initial Catalog=ITI-VSCode;Integrated Security=True;TrustServerCertificate=True",
+            "name": "ITIConnectionString"
+        }
+    ],
+    "cmake.options.statusBarVisibility": "visible"
+}
